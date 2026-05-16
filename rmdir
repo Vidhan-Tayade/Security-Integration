@@ -1,0 +1,4 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      290       1     290      20264  ?         197609 11:01:12 /usr/lib/gnupg/keyboxd
+      295       1     295      19420  cons1     197609 11:10:55 /usr/bin/ps
+      280       1     280      18064  cons0     197609 10:52:33 /usr/bin/vim
